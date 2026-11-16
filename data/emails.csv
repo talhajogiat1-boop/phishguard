@@ -1,0 +1,41 @@
+id,label,sender,brand,subject,body
+1,phishing,security@rbc-secure-alerts.com,rbc.com,Unusual activity on your account,"Dear customer, we detected unusual activity. Verify your account within 24 hours or it will be locked: http://rbc-secure-alerts.com/login"
+2,phishing,support@paypa1.com,paypal.com,Your account will be suspended,"Dear user, confirm your identity immediately to avoid suspension. http://bit.ly/3xPpal"
+3,phishing,it-helpdesk@tmu-mail-update.net,torontomu.ca,Mailbox storage full,Your mailbox is full. Log in here to upgrade your quota today: http://tmu-mail-update.net/owa
+4,phishing,refunds@cra-arc-gc.com,canada.ca,CRA refund pending,You have a tax refund of $428.19. Claim your refund by entering your SIN number and credit card number: http://cra-arc-gc.com/refund
+5,phishing,noreply@amazon-orders-help.com,amazon.ca,Order cancelled,We could not process your order. Update your payment details: http://amazon-orders-help.com/verify
+6,phishing,ceo.office@gmail.com,,Quick favour,"Are you at your desk? I need you to buy 5 gift cards for a client meeting and send me the codes. Keep this between us, it is urgent."
+7,phishing,delivery@canadapost-track.info,canadapost.ca,Package on hold,Your package is on hold due to unpaid shipping. Pay $2.99 now: http://45.12.88.3/pay
+8,phishing,admin@netflix-billing-center.com,netflix.com,Payment declined,"Dear customer, your membership will be suspended. Update your billing info: http://netflix-billing-center.com/update"
+9,phishing,winner@lotto-intl-prize.com,,You have won!,"Congratulations, you have won $50,000. Claim your prize by sending a processing fee via wire transfer."
+10,phishing,security@microsoft-account-team.co,microsoft.com,Sign-in blocked,We blocked a sign-in attempt. Sign in to review: http://microsoft-account-team.co/review. Act now.
+11,phishing,hr@company-payroll-portal.com,,Updated salary document,Please review the attached Salary_Update.html and log in with your work password to view it.
+12,phishing,apple@id-verify-apple.com,apple.com,Apple ID locked,Your Apple ID has been locked for security reasons. Verify now: http://id-verify-apple.com
+13,phishing,scotia.alerts@scotiabank-online-secure.com,scotiabank.com,Interac e-Transfer received,You received an e-Transfer of $750. Log in to deposit: http://tinyurl.com/sc0tia-dep
+14,phishing,docs@dropbox-share-files.net,dropbox.com,Shared document,A document has been shared with you. Sign in with your email password to view: http://dropbox-share-files.net
+15,phishing,support@instagram-copyright-team.com,instagram.com,Copyright violation,Your account will be deleted within 24 hours due to a copyright complaint. Appeal here: http://instagram-copyright-team.com
+16,phishing,billing@telus-account.org,telus.com,Final notice,Final notice: your bill is overdue. Pay immediately to avoid disconnection: http://telus-account.org/pay
+17,phishing,student-aid@osap-grant-ontario.com,ontario.ca,OSAP grant approved,"You are approved for a $2,000 grant. Confirm your identity and bank login to receive funds: http://osap-grant-ontario.com"
+18,phishing,no-reply@docusign-secure-review.com,docusign.com,Please sign: Contract,"Dear client, a contract needs your signature. Review document: http://docusign-secure-review.com/sign"
+19,phishing,friend.travel@outlook.com,,Stuck abroad,"Hi, I am stuck in Istanbul and lost my wallet. Can you send $500 by bitcoin? I will pay you back."
+20,phishing,recruiter@jobs-offer-hr.com,,Remote job offer,We are pleased to offer you a remote job at $45/hour. Send your social insurance number and banking details to start.
+21,legitimate,no-reply@torontomu.ca,torontomu.ca,Winter 2027 course enrollment,Your enrollment window opens next week. Visit https://my.torontomu.ca to view your enrollment appointment.
+22,legitimate,orders@amazon.ca,amazon.ca,Your order has shipped,"Hi Talha, your order #702-4419 has shipped and will arrive Thursday. Track it at https://www.amazon.ca/orders"
+23,legitimate,notifications@github.com,github.com,[GitHub] A new SSH key was added,"A new SSH key was added to your account. If you did this, no action is needed. https://github.com/settings/keys"
+24,legitimate,team@linkedin.com,linkedin.com,You appeared in 12 searches,"Hi Talha, you appeared in 12 searches this week. See who is looking: https://www.linkedin.com/me/search-appearances"
+25,legitimate,prof.smith@torontomu.ca,torontomu.ca,Assignment 3 reminder,"Hi class, a reminder that Assignment 3 is due Friday on D2L. Office hours are Thursday 2-4pm."
+26,legitimate,service@paypal.com,paypal.com,Receipt for your payment,You sent a payment of $24.99 to Spotify. View the transaction at https://www.paypal.com/activity
+27,legitimate,alerts@rbc.com,rbc.com,Your statement is ready,"Your monthly statement is now available in RBC Online Banking. For your security, we never ask for your password by email."
+28,legitimate,noreply@canadapost.ca,canadapost.ca,Delivery notice,Your package was delivered to your mailbox at 2:14pm. Tracking: https://www.canadapost-postescanada.ca/track
+29,legitimate,calendar@google.com,google.com,Invitation: Team sync,You have been invited to Team sync on Monday at 10am. https://calendar.google.com/event?eid=abc
+30,legitimate,info@niyyahjourneys.com,niyyahjourneys.com,Trip itinerary,"Assalamu alaikum, attached is the day-by-day itinerary for our October trip. See you at the airport!"
+31,legitimate,security@google.com,google.com,Security alert,"A new sign-in on Windows. If this was you, you do not need to do anything. Check activity: https://myaccount.google.com/notifications"
+32,legitimate,newsletter@shopify.com,shopify.com,Tips to grow your store,Five ideas to boost holiday sales this season. Read more on https://www.shopify.com/blog
+33,legitimate,billing@telus.com,telus.com,Your bill is ready,Your November bill of $65.00 is ready and will be paid automatically on Nov 28. https://www.telus.com/my-account
+34,legitimate,careers@geotab.com,geotab.com,Application received,Thank you for applying to Geotab. We will review your application and contact you if selected.
+35,legitimate,hr@ontario.ca,ontario.ca,Timesheet reminder,Reminder to submit your timesheet in Workday by end of day Friday.
+36,legitimate,support@zoom.us,zoom.us,Meeting recording available,Your cloud recording is now available. https://zoom.us/recording
+37,legitimate,accounts@netflix.com,netflix.com,Your payment was successful,Thanks for your payment of $16.49. Your next billing date is December 15.
+38,legitimate,noreply@uber.com,uber.com,Your Tuesday trip,Thanks for riding with Uber. Total $18.42. View your receipt at https://riders.uber.com/trips
+39,legitimate,it-support@torontomu.ca,torontomu.ca,Scheduled maintenance,D2L will be unavailable Sunday 1-5am for scheduled maintenance. No action is required.
+40,legitimate,alerts@scotiabank.com,scotiabank.com,Urgent: confirm a large purchase,"We noticed a purchase of $1,200. If this was not you, call the number on the back of your card immediately. Do not reply to this email."
