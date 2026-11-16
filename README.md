@@ -39,7 +39,7 @@ phishguard/
 ## How to run
 
 ```bash
-git clone https://github.com/<your-username>/phishguard.git
+git clone https://github.com/talhajogiat1-boop/phishguard.git
 cd phishguard
 pip install -r requirements.txt
 
